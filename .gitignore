@@ -1,0 +1,5 @@
+.import/
+.godot/
+.cache/
+*.uid
+*.import
